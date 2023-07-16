@@ -1,0 +1,7 @@
+POST http://localhost:3400/kh/checkLogin
+Content-Type: application/json
+
+{
+    "email":"minh@gmail.com",
+    "matkhau":"12345678"
+}
